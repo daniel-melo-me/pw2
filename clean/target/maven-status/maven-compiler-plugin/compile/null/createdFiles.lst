@@ -1,0 +1,6 @@
+dev/ifrs/interfaceadapters/user/controller/UserController.class
+dev/ifrs/interfaceadapters/user/controller/UserControllerInterface.class
+dev/ifrs/web/user/WS.class
+dev/ifrs/usercase/user/UserCaseInterface.class
+dev/ifrs/model/User.class
+dev/ifrs/usercase/user/UserCase.class
